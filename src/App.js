@@ -1,5 +1,4 @@
 import React from 'react';
-impogit
 import './App.css';
 
 function App() {
